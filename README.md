@@ -5,8 +5,10 @@
 
 [Down](http://asdasdadasd)
 
-<a href="itms-services://?action=download-manifest&url=https://github.com/Cedric-jc/MainProject/blob/master/dis.plist">down load</a>
 
+<div>
+<a href="itms-services://?action=download-manifest&url=https://github.com/Cedric-jc/MainProject/blob/master/dis.plist">down load</a>
+</div>
 
 itms-services://?action=download-manifest&url=https://github.com/Cedric-jc/MainProject/blob/master/dis.plist
 
