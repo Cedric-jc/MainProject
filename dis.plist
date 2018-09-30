@@ -57,7 +57,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kaidi.nfby</string>
+				<string>com.nfmedia.zycf</string>
 				<key>bundle-version</key>
 				<string>3.1.0</string>
 				<key>kind</key>
