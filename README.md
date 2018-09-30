@@ -9,3 +9,7 @@
 
 
 itms-services://?action=download-manifest&url=https://github.com/Cedric-jc/MainProject/blob/master/dis.plist
+
+
+
+itms-services://?action=download-manifest&url=https://www.cloudctrl.cn/app/nfby/NFBY_3.1.0.plist
